@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Tracey Holmes",
+            "title": "Cricket Australia makes own stand against Taliban by cancelling men's Test against Afghanistan",
+            "description": "While the ICC continues to discuss and deliberate, Cricket Australia has made its own views on the Taliban's treatment of women in the game perfectly clear, writes Tracey Holmes.",
+            "url": "http://www.abc.net.au/news/2021-09-09/cricket-australia-makes-its-own-stand-against-the-taliban/100448048",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9163a0649ae8255ffd01d6dc7f52399e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=242&width=862&height=485",
+            "publishedAt": "2021-09-09T06:13:08Z",
+            "content": "Cricket Australia's simple statement ran to just three lines but it packed a punch, putting the Taliban on notice that parading a men's team around the world as a propaganda exercise, while banning w… [+4684 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
